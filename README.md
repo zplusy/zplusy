@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+👨‍🎓 My name is **Zhou Jiayu**. I am currently studying at **Harbin Institute of Technology, Shenzhen**, majoring in **Control Science and Engineering**.
+
+🌱 My main research interests are in **Robot Manipulation**.
+
+⭐ I am also interested in collaborating on projects related to my research areas.
+
+⚡ Fun fact: I love exploring new algorithms and their applications in artificial intelligence!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=18379630851&show_icons=true&theme=radical&count_private=true)
 <!--
 **18379630851/18379630851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
