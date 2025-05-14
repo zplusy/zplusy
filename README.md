@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍🎓 My name is **Zhou Jiayu**. I am currently studying at **Harbin Institute of Technology, Shenzhen**, majoring in **Control Science and Engineering**.
+👨‍🎓 My name is **Jiayu Zhou**. I am currently studying at **Harbin Institute of Technology, Shenzhen**, majoring in **Control Science and Engineering**.
 
 🌱 My main research interests are in **Robot Manipulation**.
 
