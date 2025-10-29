@@ -8,7 +8,7 @@
 
 ⚡ Fun fact: I love exploring new algorithms and their applications in artificial intelligence!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=18379630851&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zplusy&show_icons=true&theme=radical&count_private=true)
 <!--
 **18379630851/18379630851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
